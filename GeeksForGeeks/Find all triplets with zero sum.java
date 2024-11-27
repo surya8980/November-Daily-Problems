@@ -1,5 +1,5 @@
 /*Given an array arr[], find all possible indices [i, j, k] of triplets [arr[i], arr[j], arr[k]] in the array whose sum is equal to zero.
-Return indices of triplets in any order and all the returned triplets indices should also be internally sorted, i.e., 
+Return indices of triplets in any order and all the returned triplets indices should also be internally sorted, i.e.
 for any triplet indices [i, j, k], the condition i < j < k should hold.
 */
 class Solution {
