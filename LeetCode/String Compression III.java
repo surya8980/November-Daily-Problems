@@ -5,7 +5,6 @@ Remove a maximum length prefix of word made of a single character c repeating at
 Append the length of the prefix followed by c to comp.
 Return the string comp.
 */
-
 class Solution {
     public String compressedString(String word) {
         StringBuilder comp = new StringBuilder();//to store th resultant string
